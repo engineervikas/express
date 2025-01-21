@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+#This is a new line.
+
 ## Table of contents
 
 * [Installation](#Installation)
